@@ -1,0 +1,27 @@
+window {
+    background-color: rgb(177, 129, 255);
+}
+
+button,
+entry {
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+label {
+    font-size: 20px;
+}
+
+#label-white {
+    color: rgb(236, 236, 236);
+}
+
+#center-container {
+    margin-left: 250px;
+}
+
+#center-container button {
+    margin-left: 0px;
+    margin-right: 0px;
+}
